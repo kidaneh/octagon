@@ -1,3 +1,8 @@
+
+/*
+ * This program is developed by Kidane to show interface
+ April 21, 2020
+ */
 package octagonEx;
 
 public class TestOctagon {
